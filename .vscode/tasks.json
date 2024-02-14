@@ -1,0 +1,11 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "Generate swift-win2D bindings",
+            "command": "${workspaceFolder:swift-win2D}/generate-bindings.ps1",
+            "problemMatcher": []
+        }
+    ]
+}
