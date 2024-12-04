@@ -1,4 +1,8 @@
 # swift-win2d
+
+> [!WARNING]
+> This project contains an outdated snapshot of a subset of WinRT projections generated with [swift-winrt](https://github.com/thebrowsercompany/swift-winrt), provided for illustration purposes. To use WinRT APIs in your Swift project, we recommend using [swift-winrt](https://github.com/thebrowsercompany/swift-winrt) directly to generate your own projections.
+
 Swift language bindings for Win2D
 
 ## APIs
